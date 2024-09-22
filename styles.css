@@ -3,21 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   background-color: #f4f4f4;
   color: #333;
 }
-
 header {
   background-color: #333;
   color: #fff;
   padding: 10px 0;
   text-align: center;
 }
-
 nav ul {
   list-style: none;
   padding: 0;
@@ -25,24 +22,20 @@ nav ul {
   display: flex;
   justify-content: center;
 }
-
 nav ul li {
   margin: 0 15px;
 }
-
 nav ul li a {
   color: white;
   text-decoration: none;
   font-size: 1.2em;
 }
-
 #hero {
   background-color: #3498db;
   color: white;
   padding: 100px 20px;
   text-align: center;
 }
-
 .profile-img {
   width: 150px;
   height: 150px;
@@ -58,7 +51,6 @@ section {
   padding: 50px 20px;
   margin: 20px 0;
 }
-
 #about,
 #education,
 #skills,
@@ -69,32 +61,26 @@ section {
   margin-bottom: 20px;
   border-radius: 10px;
 }
-
 h2 {
   font-size: 2em;
   color: #3498db;
   margin-bottom: 20px;
 }
-
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-
 ul li {
   padding: 10px 0;
   font-size: 1.1em;
 }
-
 strong {
   color: #2c3e50;
 }
-
 .skill {
   margin-bottom: 20px;
 }
-
 .progress-bar {
   background-color: #ddd;
   border-radius: 5px;
@@ -103,7 +89,6 @@ strong {
   margin-bottom: 15px;
   position: relative;
 }
-
 .progress {
   height: 100%;
   background-color: #3498db;
@@ -113,24 +98,19 @@ strong {
   line-height: 20px;
   position: relative;
 }
-
 .c-progress {
   width: 80%; /* Set the percentage width */
 }
-
 .web-progress {
   width: 85%;
 }
-
 .db-progress {
   width: 75%;
 }
-
 #portfolio {
   background-color: #ecf0f1;
   text-align: center;
 }
-
 footer {
   background-color: #333;
   color: white;
